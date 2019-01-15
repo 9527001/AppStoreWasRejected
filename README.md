@@ -1,0 +1,2 @@
+# AppStoreWasRejected
+AppStore被拒绝的各种原因
