@@ -1,0 +1,40 @@
+2019年5月24日 上午2:17
+发件人 Apple
+2. 3 Performance: Accurate Metadata
+Guideline 2.3.3 - Performance - Accurate Metadata
+
+
+We noticed that your screenshots do not sufficiently reflect your app in use.
+
+Specifically, your 6.5-inch iPhone screenshots do not display the app in the correct device frame.
+
+Next Steps
+
+To resolve this issue, please revise your screenshots to ensure that they accurately reflect the app in use on the supported devices. For example, a gaming app should feature screenshots that capture actual gameplay from within the app. Marketing or promotional materials that do not reflect the UI of the app are not appropriate for screenshots.
+
+For iPhone, screenshots for 6.5-inch iPhone Xs Max and 5.5-inch devices (iPhone 6s Plus, iPhone 7 Plus, iPhone 8 Plus) are required. These screenshots will scale down for smaller device sizes.
+
+For iPad, screenshots for 12.9-inch iPad Pro (2nd generation) and 12.9-inch iPad Pro (3rd generation) are required. These screenshots will scale down for smaller device sizes.
+
+App Store screenshots should accurately communicate your app’s value and functionality. Use text and overlay images to highlight your app’s user experience, not obscure it. Make sure app UI and product images match the corresponding device type in App Store Connect. This helps users understand your app and makes for a positive App Store experience.
+
+Resources
+
+For resources on creating great screenshots for the App Store, you may want to review the App Store Product Page information available on the Apple Developer website. 
+
+Please ensure you have made any screenshot modifications using Media Manager. You should confirm your app looks and behaves identically in all languages and on all supported devices. Learn more about uploading app previews and screenshots in App Store Connect Help.
+
+
+
+Please see attached screenshots for details.
+
+Since your App Store Connect status is Metadata Rejected, we do NOT require a new binary. To revise the metadata, visit App Store Connect to select your app and revise the desired metadata values. Once you’ve completed all changes, reply to this message in Resolution Center and we will continue the review.
+
+Specifically, your 6.5-inch iPhone screenshots do not display the app in the correct device frame.：
+
+
+文件：三张截图
+
+结论：上传之前 屏幕截图审核 6.5存的屏幕截图上的手机型号必须是6.5英寸的手机型号
+Specifically, your 6.5-inch iPhone screenshots do not display the app in the correct device frame.
+Specifically, your 6.5-inch iPhone screenshots do not display the app in the correct device frame.
